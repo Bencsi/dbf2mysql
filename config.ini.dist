@@ -1,0 +1,5 @@
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=root
+DB_NAME=dbf_export_database
+DBF_RELATIVE_PATH=files
