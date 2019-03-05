@@ -9,7 +9,7 @@ Place *.dbf* files in */files* directory.
 
 Copy *config.ini.dist* to *config.ini* and fill with real data.
 
-Run:
+Run (in the directory of *sh* file):
 
 ```bash
 ./convert_dbf_to_mysql_database.sh
